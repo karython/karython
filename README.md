@@ -27,7 +27,7 @@ Pessoal que veio atrás do respositorio do youtube, você encontrará os scripts
 #
 
 <div style="display: inline_block">
-    <a href="https://karython.github.io/portfolio/" target="_blank">
+    <a href="[https://karython.github.io/portfolio/](https://gomestchnology.online/)" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-20B2AA?style=for-the-badge&logo=superuser&logoColor=white" target="_blank"/><a/>
     <a href="https://www.linkedin.com/in/karython-gomes-14501a1a1/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/><a/>
