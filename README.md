@@ -1,4 +1,4 @@
-## Olá Dev's! Eu sou o Karython Gomes, Professor de tecnologia e Desenvolvedor de Sistemas!
+## Olá Dev's! Eu sou o Karython Gomes, Professor de tecnologia, Desenvolvedor de Sistemas e Ciêntista de Dados!
 
 <br>
 
