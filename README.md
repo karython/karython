@@ -2,7 +2,6 @@
 
 <br>
 
-Pessoal que veio atrás do respositorio do youtube, você encontrará os scripts usados [AQUI](https://github.com/Lucianolpsf/youtube_projects)
 
 <div style="display: inline_block"><br>
     <img align="center" alt="python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
